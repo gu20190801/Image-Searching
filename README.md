@@ -14,6 +14,3 @@
 - [ ] Open a web browser and go to the deployed server address (the address shown on the command line).
 - [ ] Import an image file to the web app.
 - [ ] Wait until the program finish analyzing the images. Once it finished, scroll down and you will see all images on the web page.
-
-## Demo Video
-[![Demo Video](https://img.youtube.com/vi/APvwNrWIVVw/0.jpg)](https://www.youtube.com/watch?v=APvwNrWIVVw)
