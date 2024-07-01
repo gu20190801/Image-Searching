@@ -16,4 +16,4 @@
 - [ ] Wait until the program finish analyzing the images. Once it finished, scroll down and you will see all images on the web page.
 
 ## Demo Video
-https://youtu.be/APvwNrWIVVw
+[<img src="" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://youtu.be/APvwNrWIVVw) "")
